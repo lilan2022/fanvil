@@ -23,3 +23,4 @@ creating a new branch is quick and simple
 >>>>>>> feature_vulcan
 8888
 >>>>>>> Stashed changes
+newnewnew
