@@ -11,5 +11,21 @@ creating a new branch is quick and simple
 <<<<<<< Updated upstream
 =======
 6666
+<<<<<<< HEAD
 8888
 >>>>>>> Stashed changes
+=======
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+999999
+=======
+8888
+>>>>>>> Stashed changes
+=======
+=======
+>>>>>>> feature_vulcan
+8888
+>>>>>>> Stashed changes
+newnewnew
+>>>>>>> dev
