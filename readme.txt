@@ -12,6 +12,7 @@ creating a new branch is quick and simple
 =======
 6666
 <<<<<<< HEAD
+<<<<<<< HEAD
 8888
 >>>>>>> Stashed changes
 =======
@@ -29,3 +30,7 @@ creating a new branch is quick and simple
 >>>>>>> Stashed changes
 newnewnew
 >>>>>>> dev
+=======
+8888
+>>>>>>> Stashed changes
+>>>>>>> c105f887f733b3ca9c9d3b76294f8db4668f45c0
